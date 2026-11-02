@@ -43,24 +43,24 @@ export interface SkillCategory {
 
 export const portfolioData = {
   personal: {
-    name: "Alex Pratama",
+    name: "Muhammad Arivaldi",
     headline: "Fresh Graduate Teknik Informatika | Junior Web Developer & Tech Enthusiast",
     shortBio: "Lulusan baru dengan ketertarikan tinggi pada pembuatan aplikasi web modern, performa tinggi, dan pengalaman pengguna yang intuitif. Memiliki pemahaman kuat tentang React, Next.js, TypeScript, dan arsitektur RESTful API.",
-    location: "Jakarta, Indonesia",
+    location: "Karawang, Indonesia",
     status: "Tersedia untuk Kerja Penuh Waktu / Magang",
     statusAvailable: true,
-    email: "alex.pratama@example.com",
-    phone: "+62 812-3456-7890",
+    email: "m.arivaldi09@gmail.com",
+    phone: "+628988988438",
     socialLinks: {
-      github: "https://github.com/username",
-      linkedin: "https://linkedin.com/in/username",
-      instagram: "https://instagram.com/username",
+      github: "https://github.com/Marivaldi09",
+      linkedin: "https://linkedin.com/in/Muhammad Arivaldi",
+      instagram: "https://instagram.com/m4riv_ald",
     },
     resumeUrl: "#", // User dapat menaruh link file PDF di folder public atau Google Drive
   },
 
   stats: [
-    { label: "IPK / GPA", value: "3.85 / 4.00" },
+    { label: "IPK / GPA", value: "3.16 / 4.00" },
     { label: "Proyek Selesai", value: "12+" },
     { label: "Sertifikasi", value: "5+" },
     { label: "Jam Koding", value: "800+" },
@@ -68,7 +68,7 @@ export const portfolioData = {
 
   about: {
     longBio: [
-      "Halo! Saya Alex, lulusan baru jurusan Teknik Informatika yang gemar memecahkan masalah melalui kode dan teknologi. Selama masa studi, saya aktif mengembangkan berbagai proyek web, baik tugas kuliah, kompetisi hackathon, hingga proyek pesanan lepas (freelance).",
+      "Halo! Saya Arivaldi, lulusan baru jurusan Teknik Informatika yang gemar memecahkan masalah melalui kode dan teknologi. Selama masa studi, saya aktif mengembangkan berbagai proyek web, baik tugas kuliah, kompetisi hackathon, hingga proyek pesanan lepas (freelance).",
       "Saya memiliki etos kerja disiplin, rasa ingin tahu yang tinggi, dan kemampuan belajar hal baru dengan cepat. Saya selalu antusias untuk berkontribusi dalam tim engineering yang dinamis serta siap mengasah kemampuan teknis di industri teknologi.",
     ],
     strengths: [
